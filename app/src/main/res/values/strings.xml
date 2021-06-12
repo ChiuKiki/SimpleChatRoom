@@ -1,3 +1,40 @@
 <resources>
-    <string name="app_name">SimpleChatRoom</string>
+    <string name="app_name">chatRoom</string>
+
+    <!-- activity_main.xml -->
+    <string name="title_name">基于socket通信的聊天室</string>
+    <string name="user_info">用户信息：</string>
+    <string name="hint_account">账号</string>
+    <string name="hint_password">密码</string>
+    <string name="server_info">服务器信息：</string>
+    <string name="hint_ip">ip地址</string>
+    <string name="hint_port">端口</string>
+    <string name="login">登   录</string>
+    <string name="register_title_name">用户注册</string>
+
+    <!-- activity_register.xml -->
+    <string name="hint_confirm_password">确认密码</string>
+    <string name="register">注   册</string>
+
+    <!-- activity_chat_room.xml -->
+    <string name="member_num">在线人数</string>
+    <string name="hint_message">输入聊天内容&#8230;</string>
+    <string name="hint_send">发送</string>
+
+    <!-- activity_left.xml -->
+    <!-- activity_right.xml -->
+    <string name="tv_content">this is content</string>
+    <string name="tv_name">user_name</string>
+    <string name="tv_time">16:58:32</string>
+
+    <!-- activity_user.xml -->
+    <string name="user_info_title_name">个人信息</string>
+    <string name="hint_name">用户名</string>
+    <string name="hint_gender">性别</string>
+    <string name="hint_birthday">生日</string>
+    <string name="hint_tel">手机号</string>
+    <string name="hint_QQ">QQ</string>
+    <string name="hint_email">电子邮箱</string>
+    <string name="update">修   改</string>
+
 </resources>

@@ -9,7 +9,7 @@
         android:id="@+id/tv2"
         android:layout_gravity="right"
         android:textSize="20sp"
-        android:text="lalala"
+        android:text="@string/tv_content"
         android:layout_margin="5dp"
         android:textColor="#000000"
         android:layout_width="wrap_content"
@@ -23,7 +23,7 @@
 
         <TextView
             android:id="@+id/tv_name2"
-            android:text="name_xx"
+            android:text="@string/tv_name"
             android:layout_margin="5dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
@@ -31,7 +31,7 @@
         <TextView
             android:id="@+id/tv_time2"
             android:layout_margin="5dp"
-            android:text="1993-09-28"
+            android:text="@string/tv_time"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
 
